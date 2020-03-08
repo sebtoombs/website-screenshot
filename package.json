@@ -1,0 +1,29 @@
+{
+  "name": "website-screenshot",
+  "author": "sebtoombs"
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.8.3",
+    "@hapi/joi": "^17.1.0",
+    "@styled-system/css": "^5.1.5",
+    "babel-plugin-macros": "^2.8.0",
+    "babel-plugin-styled-components": "^1.10.7",
+    "canvas": "^2.6.1",
+    "capture-website": "^0.8.1",
+    "framer-motion": "^1.9.1",
+    "next": "^9.2.2",
+    "postcss": "^7.0.27",
+    "postcss-nested": "^4.2.1",
+    "postcss-preset-env": "^6.7.0",
+    "puppeteer-serverless": "^1.0.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "styled-components": "^5.0.1",
+    "styled-system": "^5.1.5",
+    "tailwindcss": "^1.2.0"
+  }
+}
