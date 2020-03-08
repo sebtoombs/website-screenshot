@@ -1,6 +1,6 @@
 {
   "name": "website-screenshot",
-  "author": "sebtoombs"
+  "author": "sebtoombs",
   "scripts": {
     "dev": "next",
     "build": "next build",

@@ -1,6 +1,6 @@
 # Website Screenshot App
 
-Generate repeatable an beautiful screenshots of websites. Great for making images for your portfolio.
+Generate repeatable and beautiful screenshots of websites. Great for making images for your portfolio.
 
 ## Why
 
